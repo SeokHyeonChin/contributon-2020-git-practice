@@ -1,5 +1,4 @@
 Juyeong Lee
-<<<<<<< HEAD
 YeEun Lee!
 오리
 Peter J
@@ -8,4 +7,4 @@ kyujonglee javascript
 2doo (LEE DOO SEOP)
 Covenant
 JSH
->>>>>>> 9f8cbd8... name addition
+안녕_하세요_
