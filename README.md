@@ -7,4 +7,4 @@ kyujonglee javascript
 2doo (LEE DOO SEOP)
 Covenant
 JSH
-안녕_하세요_
+안녕 _하세요_
